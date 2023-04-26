@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f48ca85d.css",
+    "main.js": "/static/js/main.09067831.js",
+    "static/media/about.jpg": "/static/media/about.3f704a35f1babd9f64d7.jpg",
+    "static/media/contactus.jpg": "/static/media/contactus.6e1f3036670666f2aecf.jpg",
+    "static/media/polution.png": "/static/media/polution.d8495434d4002c6299c6.png",
+    "static/media/cloudbooks.png": "/static/media/cloudbooks.ea2845bd5fd6c6a4cf78.png",
+    "static/media/project.jpg": "/static/media/project.a0c7141ca73e495a4adb.jpg",
+    "static/media/work.jpg": "/static/media/work.b800832f2dd1da98b716.jpg",
+    "static/media/home.jpg": "/static/media/home.094a247f4e2ed91c7fd8.jpg",
+    "static/media/zeit.jpg": "/static/media/zeit.f909d0c482d4814b955f.jpg",
+    "static/media/about2.png": "/static/media/about2.4690f424e51d6b40572a.png",
+    "static/media/26.png": "/static/media/26.b13795253f85574d6286.png",
+    "static/media/Portfolio-0.jpg": "/static/media/Portfolio-0.5bfbe0b90099137c4c09.jpg",
+    "static/media/greencircle.jpg": "/static/media/greencircle.6d8225c8ee4d58e996f5.jpg",
+    "static/media/kelvin.jpg": "/static/media/kelvin.76fea94b651260b7ff7a.jpg",
+    "static/media/Img3.png": "/static/media/Img3.659d7ba8365bfd0f95dd.png",
+    "static/media/tictactoe.jpg": "/static/media/tictactoe.949128949e3e3938a9ba.jpg",
+    "static/media/logor.png": "/static/media/logor.79880cc41de9b15f45b5.png",
+    "static/media/bars.svg": "/static/media/bars.b264a25d796c08e0e322.svg",
+    "index.html": "/index.html",
+    "main.f48ca85d.css.map": "/static/css/main.f48ca85d.css.map",
+    "main.09067831.js.map": "/static/js/main.09067831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f48ca85d.css",
+    "static/js/main.09067831.js"
+  ]
+}
